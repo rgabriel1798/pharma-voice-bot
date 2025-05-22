@@ -1,1 +1,1 @@
-# pharma-voice-bot
+# pharma-bot-backend
